@@ -10,6 +10,28 @@
 
 ![스크린샷 2023-09-07 오후 11 58 50](https://github.com/NORITHON/GreenPoint-server/assets/79990740/5ed8d10f-b0c2-4e3e-9b16-5d450bfc5772)
 
+
+<hr>
+
+
+### 🛠 기술스택
+
+## FRONT-END
+- React
+- React Native
+- JavaScript
+- NodeJs
+
+## BACK-END
+- WebSocket
+- STOMP Protocol
+- Spring Boot
+- JPA
+
+
+<hr>
+
+  
 ![스크린샷 2023-09-07 오후 11 58 57](https://github.com/NORITHON/GreenPoint-server/assets/79990740/f22bf5f3-8a8e-4f2b-8eda-3eb5d9529fd9)
 
 ![스크린샷 2023-09-07 오후 11 59 04](https://github.com/NORITHON/GreenPoint-server/assets/79990740/333ecfec-00cd-4802-9ffa-d88879ef177d)
