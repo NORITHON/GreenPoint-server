@@ -1,5 +1,13 @@
 ![image](https://github.com/NORITHON/GreenPoint-server/assets/79990740/68f096d6-6d4d-4a85-9572-e189e09b4086)
 
+<hr>
+
+### MEMBER
+
+![image](https://github.com/NORITHON/GreenPoint-server/assets/79990740/0af33839-5f10-42d4-84e6-e888ae877ca3)
+
+<hr>
+
 
 ### Green Point
 - Green Point는 친환경 포인트 적립 어플리케이션입니다.
@@ -16,9 +24,6 @@
 ![스크린샷 2023-09-07 오후 11 59 10](https://github.com/NORITHON/GreenPoint-server/assets/79990740/905dcc41-3c56-4ef6-84dd-231060648f79)
 
 
-### MEMBER
-
-![image](https://github.com/NORITHON/GreenPoint-server/assets/79990740/0af33839-5f10-42d4-84e6-e888ae877ca3)
 
 ![스크린샷 2023-09-07 오후 11 58 21](https://github.com/NORITHON/GreenPoint-server/assets/79990740/cb2e8c2f-c9d9-46a0-b9cb-a591a2771eac)
 
